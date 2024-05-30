@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="Test(failed)">
+    <parameter name="firstname" value="Selenium"/>
+    <parameter name="password" value="Selenium@123"/>
+    <parameter name="telephone" value="23423424"/>
+    <parameter name="url" value="https://tutorialsninja.com/demo"/>
+    <parameter name="lastname" value="Panda"/>
+    <parameter name="confirmpassowrd" value="Selenium@123"/>
+    <classes>
+      <class name="com.automation.Recap_Project.Register_With_Parameters">
+        <methods>
+          <include name="registerWithParameters"/>
+        </methods>
+      </class> <!-- com.automation.Recap_Project.Register_With_Parameters -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

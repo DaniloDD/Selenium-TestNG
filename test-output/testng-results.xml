@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-29T17:15:30Z" name="Default suite" finished-at="2024-05-29T17:15:36Z" duration-ms="5430">
+    <groups>
+    </groups>
+    <test started-at="2024-05-29T17:15:30Z" name="Default test" finished-at="2024-05-29T17:15:36Z" duration-ms="5430">
+      <class name="com.automation.Calendar.Example2_InvalidDate">
+        <test-method signature="pickTheDate()[pri:0, instance:com.automation.Calendar.Example2_InvalidDate@76a4ebf2]" started-at="2024-05-29T13:15:30Z" name="pickTheDate" finished-at="2024-05-29T13:15:36Z" duration-ms="5422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pickTheDate -->
+      </class> <!-- com.automation.Calendar.Example2_InvalidDate -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
